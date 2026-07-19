@@ -268,3 +268,25 @@ This project delivers a scalable and intelligent admission management solution f
 AI-Enabled Student Admission System
 
 **Team ID:** SWTID-2026-9625
+## Project Repository
+
+GitHub:
+https://github.com/gayathridevipemmanaboyidi-del/AI-Enabled-Student-Admission-System-
+Team member : Anitha Kumari Seekolu
+Team member : Aditya Vardhan Katta
+Team member : Jaswanth Srikar Addanki
+Team member : Sontenam Santosh Venkat Charan
+
+S.No	Role	Full Name	Email ID
+1	Team Lead	Gayathri Pemmanaboyidi	gayathridevipemmanaboyidi@gmail.com
+
+2	Team Member	Anitha Kumari Seekolu	seekoluanitha13@gmail.com
+
+3	Team Member	Aditya Vardhan Katta	kattaadityavardhan@gmail.com
+
+4	Team Member	Jaswanth Srikar Addanki	jaswanthsrikar56@gmail.com
+
+5	Team Member	Sontenam Santosh Venkat Charan	ssvcharan414@gmail.com
+
+
+
